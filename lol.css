@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+#run-btn{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 5px;
+    border-color: aquamarine;
+    border: 1px, 2px, 2px, 3px;
+    letter-spacing: 2px;
+}
